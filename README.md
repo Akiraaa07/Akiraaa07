@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Akira 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akira.igoor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](colocar link do linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ![Igor Akira GitHub stats](https://github-readme-stats.vercel.app/api?username=Akiraaa07&show_icons=true&theme=dracula)
 
