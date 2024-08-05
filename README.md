@@ -17,4 +17,5 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+
 Fã de tecnologia e educação, programando o caminho para um futuro brilhante!
